@@ -1,0 +1,2 @@
+jdbc:h2:tcp://localhost:8085/mem:orders
+jdbc:h2:tcp://localhost:8086/mem:payments
