@@ -2,7 +2,7 @@
 Microservices SAGA-choreography pattern example (order <-> payment) using Spring Boot Reactive Cloud Streaming, Kafka bindings and H2 databases.
 
 # Prerequisites # 
-Apache Kafka installation
+Apache Kafka installation TEST
 
 # Create order #
 POST to localhost:8081/order/create
